@@ -1,4 +1,4 @@
-.. ResWue documentation master file, created by
+.. DRCG master file, created by
    sphinx-quickstart on Wed Oct 14 22:40:31 2015.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
@@ -18,9 +18,11 @@ DRCG HOME
 =========
 
 .. toctree::
-	:maxdepth: 1
+	:maxdepth: 2
 
 	welcome
-	DRCGwwcontest
-
+	drcgww/index
+	dldxrtty/index
+	contestcup/index
+	impressum
 
