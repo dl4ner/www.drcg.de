@@ -1,4 +1,4 @@
-Results
+Results & Awards
 -------
 
 2015
@@ -6,11 +6,13 @@ Results
 
 * `contest manager report </_static/pdf/dldx/DL-DX_MANAGERS_REPORT_2015.pdf>`_
 * `results </_static/pdf/dldx/dldx-rttycontest-result2015.pdf>`_
+* :doc:`awards <2015>`
 
 2014
 ++++
 
 * `results </_static/pdf/dldx/dldx-rttycontest-result2014.pdf>`_
+* :doc:`awards <2014>`
 
 2013
 ++++

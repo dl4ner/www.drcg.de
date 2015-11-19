@@ -1,4 +1,4 @@
-DRCG WW RTTY Reglas (spanish)
+DRCG WW RTTY Reglas (español)
 +++++++++++++++++++++++++++++
 
 Reglas:: 
