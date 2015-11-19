@@ -9,10 +9,10 @@ Welcome to DRCG Website
 Welcome at the DL-DX RTTY Contest Group - DRCG
 
 ``DRCG WW RTTY Contest``
-	2. weekend June 
+	2. weekend June  ==> :doc:`(click here for rules) <drcgww/index>`
 
 ``DL-DX RTTY Contest``
-	1. full weekend July 
+	1. full weekend July => :doc:`(click here for rules) <dldxrtty/index>`
 
 DRCG HOME
 =========

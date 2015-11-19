@@ -1,18 +1,13 @@
 Impressum
 =========
 
-Betreiber und verantwortlich für den Inhalt:
+Betreiber und verantwortlich für den Inhalt::
 
    DRCG 
-
    DL-DX RTTY CONTEST GROUP
-
    c/o Thomas Gehrig, HB9SVT
-
    Henauerstrasse 9
-
    9244 Niederuzwil
-
    Schweiz
 
 Copyright:
