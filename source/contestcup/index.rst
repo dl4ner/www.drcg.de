@@ -1,12 +1,13 @@
 DRCG-Contest-Cup
 ----------------
 
-DRCG-Contest Cup (only DRCG-Members)
-
- 
-
+DRCG-Contest-Cup Rules (english)
++++++
 
 Each member may participate in the DRCG Contest cup. The contest participant reported QSO`smade within 10 days after the end of the contest via e-mail reflector or the editors. The contest cup editors multiplies the QSOs with the relevant multipliers to score and create a current list. This list is published one a month. Each participant should be able to recognize up to date, where he is and how many points he has. With the last contest in the year After the last contest in the year the winner is announced. Only RTTY-Contests are counting.
+
+DRCG-Contest-Cup Regeln (deutsch)
+++++++
 
 Jedes DRCG Mitglied kann am Contestpokal teilnehmen. Dazu kann der Contestteilnehmer seine getätigten QSOs innerhalb 10 Tagen nach Contestende im DRCG-Reflektor veröffentlichen oder durch E-Mail dem Bearbeiter mitteilen. Der Contestpokal-Bearbeiter multipliziert diese QSOs mit dem betreffenden Multiplikator zu einer Punktzahl und führt darüber eine aktuelle Liste. Diese Liste ist einmal im Monat zu veröffentlichen. Jeder Teilnehmer soll aktuell erkennen können, wo er steht und wieviel Punkte er hat. Mit dem letzten Kontest im Jahr steht auch der Gewinner des Kontstpokal fest. Nur RTTY-Conteste werden gewertet.
 
@@ -24,3 +25,13 @@ Example: 400 QSOs in the DL-DX resulting 2400 points, 800 points would be credit
 
 John, DJ6JH
 DRCG-Contest-Pokal-Manager
+
+Results
++++++++
+
+* `2015 </_static/pdf/contestpokal/drcg_contestpokal_2015_stand_31.07.2015.pdf>`_
+* `2014 </_static/pdf/contestpokal/drcg_contestpokal_endstand_2014.pdf>`_
+* `2013 </_static/pdf/contestpokal/drcg_contestpokal_2013_gesamtbersicht.pdf>`_
+* `2012 </_static/pdf/contestpokal/drcg_-_contest-pokal_2012_-_endstand.pdf>`_
+* `2012 </_static/pdf/contestpokal/drcg-contestpokal_2011_-_endstand.pdf>`_
+
