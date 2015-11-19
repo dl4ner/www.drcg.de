@@ -6,4 +6,5 @@ DL-DX RTTY Contest
 
 	dl-dx-rtty-english
 	dl-dx-rtty-deutsch
+	results.rst
 
