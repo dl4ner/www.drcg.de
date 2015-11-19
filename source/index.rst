@@ -3,24 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DRCG Website
-================================
+.. image:: /_static/DRCG_Banner.jpg
 
-Welcome at the DL-DX RTTY Contest Group - DRCG
+DL-DX RTTY Contest Group - DRCG
+==============================================
+
 
 ``DRCG WW RTTY Contest``
-	2. weekend June  ==> :doc:`(click here for rules) <drcgww/index>`
+	* 2. weekend June - 11./12. June 2016 
+	* :doc:`rules, results & awards <drcgww/index>`
 
 ``DL-DX RTTY Contest``
-	1. full weekend July => :doc:`(click here for rules) <dldxrtty/index>`
+	* 1. full weekend July - 02./03. July 2016
+	* :doc:`rules, results & awards <dldxrtty/index>`
 
-DRCG HOME
-=========
 
 .. toctree::
 	:maxdepth: 2
 
-	welcome
 	drcgww/index
 	dldxrtty/index
 	contestcup/index
