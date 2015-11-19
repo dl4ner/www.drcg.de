@@ -58,6 +58,7 @@ html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
+	rsync -avr source/favicon.ico $(BUILDDIR)/html/ || exit 0
 	rsync -avr $(BUILDDIR)/html/ $(HTMLDIR)/ --delete || exit 0
 
 dirhtml:

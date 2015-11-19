@@ -1,5 +1,5 @@
-Results DRCGWW
---------------
+Results DRCGWW / Awards
+-----------------------
 
 2015
 ++++
@@ -7,6 +7,7 @@ Results DRCGWW
 * `contest manager report </_static/pdf/drcgww/DRCG_WW_MANAGERS_REPORT_2015.pdf>`_
 * `results </_static/pdf/drcgww/DRCG_WW_RESULT_2015.pdf>`_
 * `soapbox </_static/pdf/drcgww/DRCG_WW_SOAPBOX_2015.pdf>`_
+* :doc:`awards <2015>`
 
 2014
 ++++
@@ -14,6 +15,7 @@ Results DRCGWW
 * `contest manager report </_static/pdf/drcgww/DRCG_WW_MANAGERS_REPORT_2014.pdf>`_
 * `result </_static/pdf/drcgww/DRCG_WW_RESULT_2014.pdf>`_
 * `soapbox </_static/pdf/drcgww/DRCG_WW_SOAPBOX_2014.pdf>`_
+* :doc:`awards <2014>`
 
 
 Results DLDC
