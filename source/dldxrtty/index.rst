@@ -1,5 +1,12 @@
+DL-DX RTTY Contest
+==================
+
+* `Cabrillo Definition </_static/pdf/dldx/DLDXRTTYCabrillo.pdf>`_
+
 .. toctree::
-	:maxdepth: 2
+	:maxdepth: 1
 
+	dl-dx-rtty-english
+	dl-dx-rtty-deutsch
+	results.rst
 
-	DLDXRTTYcontest.rst         
