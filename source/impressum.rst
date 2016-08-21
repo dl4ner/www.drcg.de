@@ -5,10 +5,10 @@ Betreiber und verantwortlich für den Inhalt::
 
    DRCG 
    DL-DX RTTY CONTEST GROUP
-   c/o Thomas Gehrig, HB9SVT
-   Henauerstrasse 9
-   9244 Niederuzwil
-   Schweiz
+   c/o Dieter Bachorski, DF2SD
+   Auf der Schanz 52
+   47652 Weeze
+   Deutschland
 
 Copyright:
 Bild und Datenmaterial unterliegt dem Copyright des Betreibers und dürfen ohne Erlaubnis des Betreibers nicht verwendet werden.
