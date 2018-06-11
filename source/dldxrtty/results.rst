@@ -1,6 +1,11 @@
 Results & Awards
 -------
 
+2017
+++++
+
+* `results </_static/pdf/dldx/dldx-rttycontest-result2017.pdf>`_
+
 2016
 ++++
 

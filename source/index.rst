@@ -11,15 +11,15 @@ DL-DX RTTY Contest Group - DRCG
 ``Contact``
 	* :doc:`how to contact DRCG<contact>`
 
-``DRCG WW RTTY Contest``
-	* 2. weekend June - 10./11. June 2017 
-	* :doc:`rules, resutls & awards <drcgww/index>`
-	* :doc:`results & awards 2016 <drcgww/results>`
-
 ``DL-DX RTTY Contest``
-	* 1. full weekend July - 01./02. July 2017
+	* 1. full weekend July - 07./08. July 2018
 	* :doc:`rules, results & awards <dldxrtty/index>`
-	* :doc:`results & awards 2016 <dldxrtty/results>`
+	* :doc:`results & awards 2017 <dldxrtty/results>` (update 2018-jun-11 -awards 2017 available)
+
+``DRCG WW RTTY Contest``
+	* 2. weekend June - 08./09. June 2019 
+	* :doc:`rules, resutls & awards <drcgww/index>`
+	* :doc:`results & awards 2017 <drcgww/results>` (update 2018-jun-05 - awards 2017 available)
 
 .. toctree::
 	:maxdepth: 2
@@ -29,4 +29,5 @@ DL-DX RTTY Contest Group - DRCG
 	contestcup/index
 	qtc/index
 	impressum
+	datenschutz
 

@@ -5,9 +5,9 @@ Betreiber und verantwortlich für den Inhalt::
 
    DRCG 
    DL-DX RTTY CONTEST GROUP
-   c/o Dieter Bachorski, DF2SD
-   Auf der Schanz 52
-   47652 Weeze
+   c/o Andreas Wolf
+   Geschwister Scholl Str. 11
+   07407 Rudolstadt
    Deutschland
 
 Copyright:
@@ -35,19 +35,11 @@ Die auf dieser Website veröffentlichten Inhalte und Werke sind urheberrechtlich
 
 Links zum Blog des Anbieters sind jederzeit willkommen und bedürfen keiner Zustimmung durch den Anbieter der Website. Die Darstellung dieser Website in fremden Frames ist nur mit Erlaubnis zulässig.
 
-3. Datenschutz
-
-Durch den Besuch der Website des Anbieters können Informationen über den Zugriff (Datum, Uhrzeit, betrachtete Seite) auf dem Server gespeichert werden. Diese Daten gehören nicht zu den personenbezogenen Daten, sondern sind anonymisiert. Sie werden ausschließlich zu statistischen Zwecken ausgewertet. Eine Weitergabe an Dritte, zu kommerziellen oder nichtkommerziellen Zwecken, findet nicht statt.
-
-Der Anbieter weist ausdrücklich darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen und nicht lückenlos vor dem Zugriff durch Dritte geschützt werden kann.
-
-Die Verwendung der Kontaktdaten der Anbieterkennzeichnung - insbesondere der Telefon-/Faxnummern und E-Mailadresse - zur gewerblichen Werbung ist ausdrücklich nicht erwünscht, es sei denn der Anbieter hatte zuvor seine schriftliche Einwilligung erteilt oder es besteht bereits ein geschäftlicher Kontakt. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.
-
-4. Anwendbares Recht
+3. Anwendbares Recht
 
 Es gilt ausschließlich das maßgebliche Recht der Bundesrepublik Deutschland.
 
-5. Spezielle Nutzungsbedingungen
+4. Spezielle Nutzungsbedingungen
 
 Soweit spezielle Bedingungen für einzelne Nutzungen dieser Website von den vorgenannten Punkten 1 bis 4 abweichen, wird an entsprechender Stelle ausdrücklich darauf hingewiesen. In diesem Falle gelten ergänzend die speziellen Nutzungsbedingungen.
 
