@@ -5,6 +5,7 @@ Results & Awards
 ++++
 
 * `results </_static/pdf/dldx/dldx-rttycontest-result2017.pdf>`_
+* :doc:`awards <2017>`
 
 2016
 ++++
