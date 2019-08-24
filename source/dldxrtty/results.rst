@@ -1,6 +1,18 @@
 Results & Awards
 -------
 
+2019
+++++
+
+* `results </_static/pdf/dldx/dldx-rttycontest-result2019.pdf>`_
+* :doc:`awards <2019>`
+
+2018
+++++
+
+* `results </_static/pdf/dldx/dldx-rttycontest-result2018.pdf>`_
+* :doc:`awards <2018>`
+
 2017
 ++++
 
