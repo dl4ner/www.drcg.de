@@ -1,6 +1,12 @@
 Results DRCGWW / Awards
 -----------------------
 
+2020
+++++
+
+* `results </_static/pdf/drcgww/DRCG_WW_RESULT_2020.pdf>`_
+* :doc:`awards <2020>`
+
 2019
 ++++
 

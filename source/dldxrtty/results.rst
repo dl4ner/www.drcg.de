@@ -1,6 +1,12 @@
 Results & Awards
 -------
 
+2020
+++++
+
+* `results </_static/pdf/dldx/dldx-rttycontest-result2020.pdf>`_
+* :doc:`awards <2020>`
+
 2019
 ++++
 
